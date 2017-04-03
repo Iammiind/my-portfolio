@@ -1,0 +1,38 @@
+.welcome-wrapper {
+    background-color: #FFEB3B;
+    padding-top: 5vh;
+    position: relative;
+    padding-left: 5vh;
+    padding-right: 5vh;  
+}
+.welcome-banner {
+    background-color: #222;
+    position: absolute;
+    bottom: 0;
+    padding: 4vmin;
+    width: 50vmax;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2vmax;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+}
+.welcome-sheep {
+    background-image: url('../images/sheep.png');
+    background-repeat: no-repeat;
+    height: 70vh;
+    background-position: center center;
+    background-size: contain;
+}
+.text-welcome {
+    color: #999;
+    font-size: 3vmin;
+}
+.text-portfolio {
+    color: #FFF;
+    font-size: 6vmin;
+}

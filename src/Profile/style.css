@@ -1,0 +1,95 @@
+.container-wrapper {
+    margin: 0 auto;
+    max-width: 1300px;
+    width: 85%;
+}
+.profile-wrapper {
+    background-color: #222;
+    padding: 10vh 0;
+}
+.profile-bg {
+    background-color: #FFFFFF;
+    box-shadow: 1px 0px 13.275px #000;
+    padding: 5vh;
+    border-radius: 10px;
+}
+.profile-pic {
+    background-image: url('../images/mind2.jpg');
+    background-repeat: no-repeat;
+    height: 250px;
+    background-position: center center;
+    background-size: contain;
+    border-radius: 20vmax;
+}
+.profile-box {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2vh !important;
+    padding-top: 3vmin;
+    text-align: center;
+}
+.profile2-box {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.3vh !important;
+    border-left:1px solid #CCC;
+    padding: 2vmax;
+    color: #444;
+}
+.profile-span1 {
+    font-weight: bold;
+}
+.profile-span2 {
+    color: #CCC;
+    font-size: 4vh;
+}
+.content-span {
+    font-style: italic;
+    color: #AAA;
+}
+.profile-content {
+    margin-left: 4.5vh;
+}
+.profile-content a {
+    color: #444;
+}
+.profile-content a:visited {
+    color: #444;
+}
+.profile-content a:hover {
+    color: #444;
+}
+.profile-content a:active {
+    color: #444;
+}
+.content-box1 {
+    margin: 2vh 0;
+}
+.content-name {
+    font-size: 7vh;
+    line-height: 0.7;
+}
+.content-lastname {
+    font-size: 3vh;
+    line-height: 1.5;
+}
+.content-nickname {
+    font-size: 3vh;
+}
+.content-birth {
+    font-size: 2.3vh;
+    color: #AAA;
+}
+.profile-left {
+    margin: auto 0;
+}
+@media screen and (max-width: 768px) {
+    .container-wrapper {
+        margin: 0 auto;
+        width: 90%; 
+    }
+    .profile-wrapper {
+        padding: 5vh 0;
+    }
+}
+
+
+
