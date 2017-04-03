@@ -30,8 +30,8 @@ export default class Profile extends Component {
                                     <div className="content-box">      
                                         <span className="profile-span2">EDUCATION</span><br/>
                                             <div className="profile-content">
-                                                Chiang Mai University, College of Art, Media and Technology<br/>
-                                                Bachelor of Science Program in Software Engineering
+                                                2014 - present : College of Art, Media and Technology Bachelor of Science Program 
+                                                in Software Engineering, Chiang Mai University
                                             </div>
                                     </div>
                                     <div className="content-box">        
